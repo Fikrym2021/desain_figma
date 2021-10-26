@@ -111,7 +111,7 @@ class _HomeScreenState extends State<HomeScreen> {
           BottomNavigationBarItem(
             icon: CircularImageWidget(
               imageUrl:
-                  'https://raw.githubusercontent.com/Fikrym2021/figma_desain/main/assets/images/Main%20Avatar.png',
+                  'https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Avatar.png',
               size: 26,
             ),
             label: 'Profile',
