@@ -10,22 +10,22 @@ class Story {
   static List<Story> storiesDummy = [
     Story(
       imageUrl:
-          'https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg',
+          'https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Post%2010.png',
       name: 'Story 1',
     ),
     Story(
       imageUrl:
-          'https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg',
+          'https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Post%204.png',
       name: 'Story 2',
     ),
     Story(
       imageUrl:
-          'https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg',
+          'https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Saved%20Story%203.png',
       name: 'Story 3',
     ),
     Story(
       imageUrl:
-          'https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg',
+          'https://raw.githubusercontent.com/Fikrym2021/desain_figma/main/assets/images/Saved%20Story%204.png',
       name: 'Story 4',
     ),
   ];
